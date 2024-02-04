@@ -19,15 +19,15 @@ const Welcome = () => {
           </p>
           <div className="mb-8 text-justify leading-relaxed decoration-solid font-semibold text-lg">
             <p>
-              Exclusivo evento de talla internacional, a efectuarseel próximo 2
+              Exclusivo evento de talla internacional, a efectuarse el próximo 2
               de marzo en el Palacio de la Música de Mérida a las 19:30 hrs. Los
               asistentes podrán apreciar una exquisita exhibición de piezas
               exclusivas de artistas consagrados como Frida Kahlo, Salvador
               Dali, Pablo Picasso, entre otros.
             </p>
             <p>
-              Gran noche de gala con subasta de obras de Arte de artistas y
-              galerias locales e internacionales.
+              Subasta de obras de Arte de artistas y galerias locales e
+              internacionales.
             </p>
             <ul className="list-disc list-inside py-5">
               <li>Subasta Silenciosa</li>
